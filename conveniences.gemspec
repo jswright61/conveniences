@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A handful of ActiveSupport-style core extensions, with no Rails required"
   spec.description = "Homegrown blank?/present?, deep_symbolize_keys, and String inflection (pluralize/camelize/titleize/constantize) core extensions for non-Rails projects."
+  spec.homepage = "https://codeberg.org/jswright61/conveniences"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1"
 
